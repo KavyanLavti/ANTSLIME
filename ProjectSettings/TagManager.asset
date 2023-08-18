@@ -13,11 +13,11 @@ TagManager:
   - UI
   - 
   - 
-  - Food
-  - Food Pheremone
-  - Home Pheremone
-  - Home
-  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
   - 
   - 
   - 
@@ -40,7 +40,4 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: Pheremones
-    uniqueID: 2023016125
     locked: 0
